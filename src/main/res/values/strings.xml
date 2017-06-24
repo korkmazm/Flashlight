@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">El Feneri</string>
+    <string name="errorMessage">Üzgünüm, cihazınızda flash özelliği bulunmuyor!</string>
+    <string name="ok">Tamam</string>
+    <string name="banner_ad_unit_id">ca-app-pub-2936048571204455/3352600123</string>
+    <string name="transition_ad_unit_id">ca-app-pub-2936048571204455/3352600123</string>
+</resources>

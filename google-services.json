@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "565873113820",
+    "firebase_url": "https://flashlight-dea3e.firebaseio.com",
+    "project_id": "flashlight-dea3e",
+    "storage_bucket": "flashlight-dea3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565873113820:android:8cffad80d33eb996",
+        "android_client_info": {
+          "package_name": "com.softonetech.flashlight"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "565873113820-g30cfmrdrbhg30vic3jkdhd38dg37mgd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.softonetech.flashlight",
+            "certificate_hash": "ee9b3973f61b3f3cc6e823442a75b14743404b43"
+          }
+        },
+        {
+          "client_id": "565873113820-1pfclnv4jcfijl09d2bo8tsjmfn2vfrn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgjXuxYwMM9RbiofagcbD_nzG3RXSAY0U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "565873113820-1pfclnv4jcfijl09d2bo8tsjmfn2vfrn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
