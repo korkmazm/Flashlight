@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Flashlight</string>
+    <string name="errorMessage">Sorry, your device doesn\'t support flash light!</string>
+    <string name="ok">OK</string>
+    <string name="banner_ad_unit_id">ca-app-pub-2936048571204455/3352600123</string>
+    <string name="transition_ad_unit_id">ca-app-pub-2936048571204455/3352600123</string>
+</resources>

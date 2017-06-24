@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Linterna</string>
+    <string name="errorMessage">Lo sentimos, ¡tu dispositivo no es compatible con la luz del flash!</string>
+    <string name="ok">Si</string>
+    <string name="banner_ad_unit_id">ca-app-pub-2936048571204455/3352600123</string>
+    <string name="transition_ad_unit_id">ca-app-pub-2936048571204455/3352600123</string>
+</resources>
